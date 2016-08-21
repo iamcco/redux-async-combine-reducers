@@ -12,5 +12,5 @@ export default asyncCombineReducers(combineReducers)({
 
 ```
 
-[example](https://github.com/iamcco/redux-async-combine-reducers)
+[example](https://github.com/iamcco/BEND)
 
