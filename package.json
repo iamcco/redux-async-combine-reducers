@@ -1,6 +1,6 @@
 {
   "name": "redux-async-combine-reducers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Asynchronous add reducers",
   "main": "lib/index.js",
   "scripts": {
