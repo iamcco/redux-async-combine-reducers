@@ -1,0 +1,26 @@
+{
+  "name": "redux-async-combine-reducers",
+  "version": "1.0.0",
+  "description": "Asynchronous add reducers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcco/redux-async-combine-reducers.git"
+  },
+  "keywords": [
+    "asynchronous",
+    "reducer"
+  ],
+  "author": "年糕小豆汤 <ooiss@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamcco/redux-async-combine-reducers/issues"
+  },
+  "homepage": "https://github.com/iamcco/redux-async-combine-reducers#readme",
+  "dependencies": {
+    "redux": "^3.5.2"
+  }
+}
